@@ -1,0 +1,14 @@
+19:45:18 **** Incremental Build of configuration Debug for project USARTfreeR ****
+make -j8 all 
+arm-none-eabi-size   USARTfreeR.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29800	     24	  23392	  53216	   cfe0	USARTfreeR.elf
+Finished building: default.size.stdout
+ 
+19:45:23 **** Incremental Build of configuration Debug for project USARTfreeR ****
+make -j8 all 
+arm-none-eabi-size   USARTfreeR.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29800	     24	  23392	  53216	   cfe0	USARTfreeR.elf
+Finished building: default.size.stdout
+ 
